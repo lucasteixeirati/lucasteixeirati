@@ -24,20 +24,20 @@ Sou meio **imperativo** (assumo!), mas uso isso ao meu favor - quando me dedico 
 Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhando em projetos regulatórios do BACEN. Antes disso, ajudei a construir o **PIX** no Banco do Nordeste - sim, aquele PIX que você usa todo dia! 💸
 
 ### 🏢 Minha trajetória completa:
-- **Zup/Itaú** (atual) - Criando o futuro dos testes com IA
-- **Stefanini/BNB** (2020-2022) - Ajudei a construir o PIX
+- **Zup/Itaú** (atual) - Criando o futuro da qualidade de software com IA
+- **Stefanini/BNB** (2020-2022) - Ajudei automatizar testes nos fluxos de PIX
 - **Qintess/BNB** (2018-2020) - Dominando ferramentas IBM e testes mainframe
 - **Engesoftware/BNB** (2018-2020) - Onde aprendi a amar sistemas bancários
-- **GREat** (2017-2018) - Primeiros passos com automação Selenium
+- **GREat** (2017-2018) - Primeiros passos com automação Selenium e mobile
 - **M. Dias Branco** (2014-2017) - Onde descobri minha paixão por QA
 - **Gerardo Bastos** (2013-2014) - Programando em ADVPL e aprendendo ERP
 - **Cosampa** (2011-2013) - Cuidando de redes e servidores
 - **Dytz Informática** (2010) - Ensinando tecnologia em Brasília
 
 ### 🚀 Alguns marcos da jornada:
-- 🎯 **2010**: Comecei ensinando Office e HTML em Brasília
+- 🎯 **2010**: Comecei ensinando sobre hardware, Office e Cobol em Brasília
 - 🖥️ **2011-2013**: Mergulhei em infraestrutura e redes
-- 💻 **2013-2014**: Descobri programação com ADVPL
+- 💻 **2013-2014**: Descobri programação com ADVPL e sistemas ERP
 - 🧪 **2014**: Encontrei minha paixão por QA na M. Dias Branco
 - 🤖 **2017**: Primeiros scripts de automação com Selenium
 - 🏦 **2018-2020**: Dominei o mundo bancário e ferramentas IBM
@@ -48,13 +48,13 @@ Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhan
 
 ## 🎵 Quando não estou codando...
 
-- 🏋️ **Malhando** - porque código limpo vem de mente sã em corpo são
-- 🎧 **Ouvindo eletrônica** - nada como um drop para debuggar código
+- 🏋️ **Malhando** - porque software de qualidade vem de mente sã em corpo são
+- 🎧 **Ouvindo eletrônica** - nada como um drop para debuggar código kkk
 - 🎸 **Tocando instrumentos** - música é código que toca a alma
 - 🏖️ **Na praia** - mar que traz paz para corpo e mente
 - 🌱 **Natureza** - amo momentos ao ar livre e em contato com a natureza
 - 📚 **Lendo livros/podcasts** - conhecimento nunca é demais
-- 🎬 **Assistindo filmes** - storytelling é importante até em testes
+- 🎬 **Assistindo filmes** - adoro assistir filmes e series com uma boa pipoca!
 
 ---
 
@@ -76,25 +76,11 @@ Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhan
 - 📊 **Processos**: UML, RUP, PDCA, Bizagi, ISO9001/27002
 
 ### 🏆 Certificações que conquistei:
-- ☁️ **AWS Cloud Practitioner** (2025) - Chegando na nuvem!
+- ☁️ **AWS Cloud Practitioner Cloud Quest** (2025) - Chegando na nuvem!
 - ✅ **CTFL Foundation** (2017) - Base sólida em QA
 - 🏃 **Scrum Fundamentals** (2022) - Agilidade sempre
 - 🔒 **LGPD** (2023) - Dados protegidos
 - 🌐 **Inglês Intermediário** (2023) - Hello world!
-
----
-
-## 🚀 Projeto que mais me orgulho
-
-### 🤖 [AI-Powered Testing Suite](https://github.com/lucasteixeirati/microservices-testing-suite)
-
-Criei uma **suite completa** que mistura microserviços com IA para testing inteligente:
-- 🧪 **131+ testes automatizados** (porque qualidade não é brincadeira)
-- 🤖 **7 componentes de IA/ML** que pensam por si só
-- 🌪️ **13 testes de Chaos Engineering** (quebra tudo para ver se aguenta)
-- 🔄 **CI/CD completo** que faz deploy dormindo
-
-É basicamente meu **playground** onde junto tudo que amo: código, IA, testes e um pouco de caos controlado! 😄
 
 ---
 
