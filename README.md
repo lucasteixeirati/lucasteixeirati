@@ -16,7 +16,7 @@ Hoje trabalho como **QA Engineer** há mais de 10 anos, mas minha jornada foi be
 
 ## 🎯 Minha vibe profissional
 
-Sou meio **imperativo** (assumo!), mas uso isso ao meu favor - quando me dedico a algo, vou **até o fim**. Nas empresas onde passei sempre me destacaram pela **determinação** e **força de vontade**. 
+Sou meio **imperativo** (assumo!), mas uso isso ao meu favor - quando me dedico a algo, vou **até o fim**. Nas empresas onde passei sempre me destaquei pela **determinação** e **força de vontade**. 
 
 Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhando em projetos regulatórios do BACEN. Antes disso, ajudei a construir o **PIX** no Banco do Nordeste - sim, aquele PIX que você usa todo dia! 💸
 
