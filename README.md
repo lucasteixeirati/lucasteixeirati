@@ -1,8 +1,5 @@
 # E aí! 👋 Sou o Lucas Teixeira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conectar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lucas-teixeira-67b08b47)
-[![Email](https://img.shields.io/badge/Gmail-Me%20manda%20um%20oi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasteixeira.ti@gmail.com)
-
 ## 🎮 Quem sou eu?
 
 Fala pessoal! Sou um cara que **ama tecnologia** desde os 13 anos quando comprei meu primeiro PC (que orgulho!). Cresci jogando **Age of Empires**, **Counter-Strike** e **FIFA** - quem nunca, né? 😄
