@@ -31,16 +31,6 @@ Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhan
 - **Cosampa** (2011-2013) - Cuidando de redes e servidores
 - **Dytz Informática** (2010) - Ensinando tecnologia em Brasília
 
-### 🚀 Alguns marcos da jornada:
-- 🎯 **2010**: Comecei ensinando sobre hardware, Office e Cobol em Brasília
-- 🖥️ **2011-2013**: Mergulhei em infraestrutura e redes
-- 💻 **2013-2014**: Descobri programação com ADVPL e sistemas ERP
-- 🧪 **2014**: Encontrei minha paixão por QA na M. Dias Branco
-- 🤖 **2017**: Primeiros scripts de automação com Selenium
-- 🏦 **2018-2020**: Dominei o mundo bancário e ferramentas IBM
-- 💳 **2020-2022**: Contribuí com o PIX no BNB
-- 🤖 **2022-atual**: Explorando IA aplicada a testes na Zup/Itaú
-
 ---
 
 ## 🎵 Quando não estou codando...
