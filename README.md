@@ -2,15 +2,15 @@
 
 ## 🎮 Quem sou eu?
 
-Fala pessoal! Sou um cara que **ama tecnologia** desde os 13 anos quando comprei meu primeiro PC (que orgulho!). Cresci jogando **Age of Empires**, **Counter-Strike** e **FIFA** - quem nunca, né? 😄
+Fala pessoal! Sou natural de Mato Grosso, filho de cearences e cresci em SP sou um cara que **ama tecnologia** desde os 13 anos quando comprei meu primeiro PC. Cresci jogando **Age of Empires**, **Counter-Strike** e **FIFA** - quem nunca, né? 😄
 
-Hoje trabalho como **QA Engineer** há mais de 10 anos, mas minha jornada foi bem gradual: comecei como estagiário, virei técnico, depois programador e só em 2014 descobri minha paixão pelo mundo de **Quality Assurance**.
+Trabalho atualmente como **QA Especialist** na **Zup Innovation**, mas minha jornada foi bem gradual: comecei como estagiário, virei técnico, depois programador e só em 2014 descobri minha paixão pelo mundo de **Quality Assurance**.
 
 ### 🚀 O que rola no meu dia a dia:
-- 🤖 Criando **agentes de IA** para automatizar testes (sim, o futuro chegou!)
-- 🐍 Codando em **Python** e **Java** para quebrar sistemas de forma inteligente
-- ☁️ Brincando com **AWS** e pipelines que fazem deploy sozinhos
-- 🏦 Trabalhando em projetos bancários que impactam milhões de pessoas
+- 🤖 Desenvolvimento de Agentes de IA: Focado na automação avançada de testes para otimização de processos.
+- 🐍 Engenharia de Software (Python & Java): Implementação de soluções robustas para testes de intrusão e garantia de qualidade de sistemas.
+- ☁️ Infraestrutura Cloud & DevOps: Gestão de ambientes AWS e estruturação de pipelines de CI/CD para deploys automatizados.
+- 🏦 Ecossistema Bancário: Atuação em projetos de alta criticidade e larga escala no setor financeiro.
 
 ---
 
@@ -18,7 +18,7 @@ Hoje trabalho como **QA Engineer** há mais de 10 anos, mas minha jornada foi be
 
 Sou meio **imperativo** (assumo!), mas uso isso ao meu favor - quando me dedico a algo, vou **até o fim**. Nas empresas onde passei sempre me destaquei pela **determinação** e **força de vontade**. 
 
-Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhando em projetos regulatórios do BACEN. Antes disso, ajudei a construir o **PIX** no Banco do Nordeste - sim, aquele PIX que você usa todo dia! 💸
+Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhando em projetos de alto valor para o negócio. Antes disso, ajudei a construir o **PIX** no Banco do Nordeste - sim, aquele PIX que você usa todo dia! 💸
 
 ### 🏢 Minha trajetória completa:
 - **Zup/Itaú** (atual) - Criando o futuro da qualidade de software com IA
@@ -28,16 +28,16 @@ Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhan
 - **GREat** (2017-2018) - Primeiros passos com automação Selenium e mobile
 - **M. Dias Branco** (2014-2017) - Onde descobri minha paixão por QA
 - **Gerardo Bastos** (2013-2014) - Programando em ADVPL e aprendendo ERP
-- **Cosampa** (2011-2013) - Cuidando de redes e servidores
-- **Dytz Informática** (2010) - Ensinando tecnologia em Brasília
+- **Cosampa** (2011-2013) - Cuidando de redes e servidores e suporte
+- **Dytz Informática** (2010) - Inicio da gradução e estábio em BSB
 
 ---
 
-## 🎵 Quando não estou codando...
+## 🎵 Quando não estou quebrando a cabeça com algum problema técnico ou de negócio...
 
-- 🏋️ **Malhando** - porque software de qualidade vem de mente sã em corpo são
-- 🎧 **Ouvindo eletrônica** - nada como um drop para debuggar código kkk
-- 🎸 **Tocando instrumentos** - música é código que toca a alma
+- 🏋️ **Treinando musculação** - porque software de qualidade vem de mente sã em corpo são
+- 🎧 **Ouvindo eletrônica** - sou ecletico, mas eletrônica tem meu coração
+- 🎸 **Tocando instrumentos** - música é código que toca a alma, acho que sou movido a som, mas as vezes gosto de silêncio
 - 🏖️ **Na praia** - mar que traz paz para corpo e mente
 - 🌱 **Natureza** - amo momentos ao ar livre e em contato com a natureza
 - 📚 **Lendo livros/podcasts** - conhecimento nunca é demais
@@ -57,12 +57,14 @@ Atualmente estou na **Zup/Itaú** criando soluções de teste com IA e trabalhan
 - 📊 **Ferramentas IBM**: RTC, RQM, RM, Cognos (era hardcore!)
 - 📁 **Gestão**: JIRA, TestLink, Git, Jenkins
 - 🗄️ **Bancos**: SQL Server, DB2, Oracle, PL-SQL
-- 📱 **Testes Mobile**: Android, IOS, SoapUI
+- 📱 **Testes Mobile**: Android, IOS, Robot Framework com SeleniumLibrary
+- 📱 **Infra e Performance**: Jmeter, DevOps: CI/CD production-ready + Multi-cloud + Observabilidade
 - 🏢 **ERP**: Oracle EBS, Protheus (ADVPL)
 - 🔧 **Infraestrutura**: Windows Server, VOIP, CFTV
 - 📊 **Processos**: UML, RUP, PDCA, Bizagi, ISO9001/27002
 
 ### 🏆 Certificações que conquistei:
+- ☁️ **AWS Cloud Practitioner Cloud Quest** (2026) - Generative AI Practitioner - Training Badge
 - ☁️ **AWS Cloud Practitioner Cloud Quest** (2025) - Chegando na nuvem!
 - ✅ **CTFL Foundation** (2017) - Base sólida em QA
 - 🏃 **Scrum Fundamentals** (2022) - Agilidade sempre
