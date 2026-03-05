@@ -1,9 +1,3 @@
-Com certeza, Lucas! Ajustei a formatação para que o Markdown fique limpo, com os negritos nos lugares certos para destacar sua senioridade e a trajetória completa.
-
-Aqui está o código pronto para copiar e colar no seu `README.md`:
-
----
-
 # E aí! 👋 Sou o Lucas Teixeira
 
 ### **QA Specialist @ Zup Innovation | AI Enthusiast | Software Engineer**
