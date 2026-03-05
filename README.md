@@ -2,7 +2,7 @@
 
 ### **QA Specialist @ Zup Innovation | AI Enthusiast | Software Engineer**
 
-Natural de **Mato Grosso**, filho de **cearenses** e criado em **SP**. Sou um cara que **ama tecnologia** desde os 13 anos, quando montei meu primeiro PC. De jogador de *Age of Empires* a especialista em qualidade, minha jornada foi construída degrau por degrau: comecei no suporte, passei pelo desenvolvimento (ADVPL) e, em 2014, descobri minha paixão pelo mundo de **Quality Assurance**.
+Natural de **Mato Grosso**, filho de **cearenses** e criado em **SP**. Sou um cara que **ama tecnologia** desde os 13 anos, quando comprei meu primeiro PC. De jogador de *Age of Empires* a especialista em qualidade, minha jornada foi construída degrau por degrau: comecei no suporte, passei pelo desenvolvimento (ADVPL) e, em 2014, descobri minha paixão pelo mundo de **Quality Assurance**.
 
 ---
 
