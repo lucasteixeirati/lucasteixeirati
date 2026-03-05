@@ -23,7 +23,7 @@ Atualmente, foco em unir a robustez da engenharia de software com a inovação d
 
 ### **☁️ Cloud & DevOps**
 
-* **Cloud Provider:** AWS (EC2, S3, Lambda, CloudWatch, IAM, Generative AI services).
+* **Cloud Provider:** AWS (EC2, S3, Lambda, CloudWatch, Dynamo, SageMaker AI).
 * **CI/CD:** Jenkins, AWS CodePipeline, GitHub Actions.
 * **Infraestrutura:** Docker, Kubernetes (básico/operacional), Observabilidade e Performance.
 * **Segurança:** Testes de intrusão e conformidade LGPD.
@@ -70,18 +70,10 @@ Quando não estou quebrando a cabeça com algum problema técnico ou de negócio
 
 * 🏋️ **Treinando musculação** – Mente sã em corpo são.
 * 🎧 **Ouvindo eletrônica** – Sou eclético, mas eletrônica tem meu coração.
-* 🎸 **Tocando instrumentos** – Música é código que toca a alma.
+* 🎸 **Tocando instrumentos** – Música é código que toca a alma, toco violão e sax.
 * 🏖️ **Na praia ou natureza** – Mar que traz paz para o corpo e a mente.
 * 📚 **Lendo ou ouvindo podcasts** – Conhecimento nunca é demais.
-* 🎬 **Assistindo filmes** – Adoro uma boa pipoca!
-
----
-
-## 🤝 Vamos trocar uma ideia?
-
-<div align="center">
-
-</div>
+* 🎬 **Assistindo filmes** – Adoro ver filmes com uma boa pipoca!
 
 ---
 
@@ -94,5 +86,3 @@ Quando não estou quebrando a cabeça com algum problema técnico ou de negócio
 </div>
 
 ---
-
-**Dica:** Se precisar que eu gere alguma imagem personalizada para o header do seu perfil ou um banner com essas tecnologias, é só pedir! Seria uma boa ideia?
